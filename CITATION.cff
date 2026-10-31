@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Para citar a organização e a disponibilização deste conjunto de dados, use esta referência. A origem do perfil está descrita no README."
+type: dataset
+title: "Perfil de irradiância para o ensaio de longa duração de inversores fotovoltaicos"
+authors:
+  - family-names: "Lima"
+    given-names: "Geyciane Pinheiro de"
+version: "1.0.0"
+date-released: "2026-10-31"
+url: "https://github.com/geycianep/perfil-irradiancia-longa-duracao/releases/tag/v1.0.0"
+repository-code: "https://github.com/geycianep/perfil-irradiancia-longa-duracao"
+abstract: "Sequência de irradiância e temperatura do módulo simulado utilizada no ensaio de longa duração da tese. O perfil foi fornecido como exemplo no software do simulador fotovoltaico. Este conjunto disponibiliza o arquivo utilizado e sua conversão para CSV, com 38.998 pontos e passo temporal de 1 s."
+keywords:
+  - "inversores fotovoltaicos"
+  - "irradiância"
+  - "ensaio de longa duração"
+  - "reprodutibilidade"
